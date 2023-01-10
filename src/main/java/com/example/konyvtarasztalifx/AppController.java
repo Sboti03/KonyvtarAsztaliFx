@@ -67,7 +67,7 @@ public class AppController {
     public void deleteClick(ActionEvent actionEvent) {
         int selectedIndex = bookTable.getSelectionModel().getSelectedIndex();
         if (selectedIndex == -1) {
-            Alert alert = new Alert(Alert.AlertType.WARNING, "Előbb válasszon ki egy elemet");
+            Alert alert = new Alert(Alert.AlertType.WARNING, "Törléshez előbb válasszon könyvet");
             alert.setHeaderText("");
             alert.show();
             return;
