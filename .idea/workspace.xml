@@ -25,15 +25,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Petrik/AMAF_Java/KonyvtarAsztaliFx/src/main/java/com/example/konyvtarasztalifx"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Petrik/AMAF_Java/KonyvtarAsztaliFx/src/main/java/com/example/konyvtarasztalifx&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Petrik\AMAF_Java\KonyvtarAsztaliFx\src\main\java\com\example\konyvtarasztalifx" />
@@ -70,7 +70,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673357142625</updated>
-      <workItem from="1673357143900" duration="1934000" />
+      <workItem from="1673357143900" duration="1988000" />
+      <workItem from="1673359367820" duration="75000" />
+      <workItem from="1673359578735" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="Fx">
       <created>1673359197562</created>
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673359197562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fx">
+      <created>1673359309727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673359309727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -80,7 +80,12 @@ public class AppController {
         alert.showAndWait();
         if (alert.getResult() == ButtonType.YES) {
             try {
-                bookDB.deleteBook(konyv.getId());
+                if (bookDB.deleteBook(konyv.getId())) {
+                    Alert alert1 = new Alert(Alert.AlertType.INFORMATION);
+                    alert1.setHeaderText("Sikeres törlés");
+                    alert1.setTitle("");
+                    alert1.setContentText("");
+                }
                 listBooks();
             } catch (SQLException e) {
                 Alert alert1 = new Alert(Alert.AlertType.ERROR, "Nem sikerült a törlés");
